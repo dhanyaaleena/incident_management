@@ -1,0 +1,5 @@
+/venv
+incident_app/__pycache__
+incident_app/migrations/__pycache__
+incident_management/__pycache__
+db.sqlite3
